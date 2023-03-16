@@ -8,5 +8,6 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'hotel-inventory';
 
+  //property the controls the ngSwitch
   role='admin';
 }
